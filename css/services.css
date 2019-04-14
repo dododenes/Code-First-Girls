@@ -40,11 +40,7 @@ footer{
 /*Meet-the-team intro*/
 /* Three columns side by side */
 /* Float four columns side by side */
-.col {
-  float: left;
-  width: 25%;
-  padding: 0 10px;
-}
+
 .name{
   text-align: center;
   text-transform: capitalize;
